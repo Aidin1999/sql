@@ -67,9 +67,13 @@ In this file, I practiced T-SQL (Transact-SQL) specific features and extensions,
 - **Triggers**: Automatically executing code in response to changes in data.
 - **Functions**: Creating and using user-defined functions.
 
+## Author
+
+**Aidin Miralmasi**  
+*Certified by Maktabkhooneh*
+
 ## Conclusion
 
 These files represent a comprehensive set of exercises and practice materials for mastering SQL. They cover fundamental operations, advanced querying techniques, and transaction management, preparing me for a wide range of SQL-related tasks and challenges.
 
 Feel free to explore these files to understand different SQL concepts and improve your own SQL skills!
-
